@@ -1,4 +1,4 @@
-
+![mimi](e152d203cd40d9efb1908e3b0a15be2.png)
 ---
 
 # 🎨 MNIST-Tutorial
